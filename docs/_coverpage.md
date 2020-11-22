@@ -3,6 +3,5 @@
 # Leodon 
 
 > leodon的blog，新建于2020.11.22，用于工作学习
-> [Get Started](#docsify)
 
 ![color](#AFEEEE)
