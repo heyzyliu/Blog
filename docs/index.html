@@ -25,10 +25,18 @@
 	  onlyCover: true,
 	  mergeNavbar: true,
 	  themeColor: '#2ECCFA',
-	  externalLinkTarget: '_self'
+	  externalLinkTarget: '_self',
+	  search: {
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 3,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
 </body>
 </html>
